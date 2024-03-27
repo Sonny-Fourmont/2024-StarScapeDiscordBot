@@ -24,11 +24,12 @@ npm install
 ```bash
 pip install -r requirements.txt
 ```
-3- To run the bot for dev tests:
+### Fullfy the .env.example file with your differents tokens (remember to rename this file to .env)
+4- To run the bot for dev tests:
 ```bash
 npm run dev
 ```
-4- Compile the TS code:
+5- Compile the TS code:
 ```bash
 npm run build
 ```
