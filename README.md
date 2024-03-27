@@ -1,5 +1,7 @@
+<img src="https://cdn.discordapp.com/app-icons/1221172836249370738/7368c22c8e1de506f4e91bf2ec1adeda.png" width="100px;" alt="StarScapeBot" style="border-radius: 50%;"/>
+
 # StarScape Discord Bot
-# Hosting on Linux or MacOS only
+# ⚠️ Hosting on Linux or MacOS only ⚠️
 <!-- I developed a mini web app with it's respective front-end and back-end. Includes the Controller (API), the service and the BD (MongoDB) -->
 ## Installation
 1- Clone the repository:
