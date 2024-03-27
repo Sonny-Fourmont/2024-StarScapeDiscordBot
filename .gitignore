@@ -1,0 +1,8 @@
+.vscode
+iod-*
+idk
+.env
+package-lock.json
+node_modules
+static
+*.js

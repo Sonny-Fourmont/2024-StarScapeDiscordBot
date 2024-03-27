@@ -1,0 +1,44 @@
+{
+    "StarScape": [
+        {
+            "anecdote": "Dans la Voie lact\u00e9e flotte un nuage g\u00e9ant, Sagittarius B2. Il aurait une 'odeur' de rhum et un 'go\u00fbt' de framboise. C'est ce qu'avance une \u00e9quipe de l'institut Max Planck. Ils ont d\u00e9tect\u00e9 la pr\u00e9sence d'environ 50 mol\u00e9cules organiques diff\u00e9rentes, dont certaines que l'on retrouve en grande partie dans la framboise et d'autres qui sont \u00e0 l'origine de l'odeur de rhum.",
+            "utilise": true
+        },
+        {
+            "anecdote": "Lors d'une sortie dans l'espace en 1965, l'astronaute Ed White a accidentellement laiss\u00e9 \u00e9chapper son gant. Le gant est rest\u00e9 en orbite autour de la Terre pendant des ann\u00e9es avant de br\u00fbler dans l'atmosph\u00e8re.",
+            "utilise": true
+        },
+        {
+            "anecdote": "Lorsque les Russes ont r\u00e9alis\u00e9 qu'un stylo \u00e0 bille ne fonctionnait pas en apesanteur, ils ont opt\u00e9 pour l'utilisation d'un crayon. Cependant, cette anecdote est un mythe. En r\u00e9alit\u00e9, les stylos \u00e0 bille ont \u00e9t\u00e9 d\u00e9velopp\u00e9s avec une encre sp\u00e9ciale qui fonctionne en apesanteur, et ils ont \u00e9t\u00e9 utilis\u00e9s \u00e0 la fois par les astronautes am\u00e9ricains et russes.",
+            "utilise": true
+        },
+        {
+            "anecdote": "Contrairement \u00e0 ce que l'on voit dans les films, l'espace est en r\u00e9alit\u00e9 un vide absolu, ce qui signifie qu'il n'y a pas de son. Par cons\u00e9quent, les batailles spatiales \u00e9piques et les explosions assourdissantes que nous voyons dans les films de science-fiction sont purement fictives.",
+            "utilise": true
+        },
+        {
+            "anecdote": "Le premier mot prononc\u00e9 par un humain dans l'espace \u00e9tait 'OK'. Le cosmonaute russe Youri Gagarine a utilis\u00e9 ce mot pour confirmer que tout allait bien lors de son vol historique en 1961.",
+            "utilise": true
+        },
+        {
+            "anecdote": "L'astronaute mexicain Jos\u00e9 Hernandez a emport\u00e9 une bouteille de sauce piquante Tabasco avec lui dans l'espace lors de sa mission en 2009. Il voulait s'assurer que la nourriture fade de l'espace aurait un peu plus de saveur",
+            "utilise": true
+        },
+        {
+            "anecdote": "Le 15 mars 2009, une chauve-souris a grimp\u00e9 sur la paroi ext\u00e9rieure du r\u00e9servoir de la navette spatiale de la NASA Discovery, pendant le d\u00e9compte du lancement pour sa mission STS-119. D'apr\u00e8s les photos et vid\u00e9os prises sur le moment, un expert de la faune sauvage a estim\u00e9 que l'animal avait une aile cass\u00e9e et ne pouvait plus bouger. \u00c0 la suite de cette observation, la NASA a \u00e9valu\u00e9 les risques que cette intrusion comportait et en a conclu que la navette pouvait s'envoler en toute s\u00e9curit\u00e9 avec la chauve-souris \u00e0 son bord. Selon l'agence spatiale, la mammif\u00e8re volant aurait p\u00e9ri lors de l'ascension en orbite de la navette.",
+            "utilise": true
+        }
+    ],
+    "Maskal": [
+        {
+            "anecdote": "Jarjar est vraiment un crack",
+            "utilise": false
+        }
+    ],
+    "ShireXela": [
+        {
+            "anecdote": "La lune est en v\u00e9rit\u00e9 un homme russe d\u00e9guis\u00e9",
+            "utilise": false
+        }
+    ]
+}
