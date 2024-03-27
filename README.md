@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/app-icons/1221172836249370738/7368c22c8e1de506f4e91bf2ec1adeda.png" width="100px;" alt="StarScapeBot" style="border-radius: 50%;"/>
+<img src="https://cdn.discordapp.com/app-icons/1221172836249370738/7368c22c8e1de506f4e91bf2ec1adeda.png" width="100px;" alt="StarScapeBot" style="border-radius: 50% !important;"/>
 
 # StarScape Discord Bot
 # ⚠️ Hosting on Linux or MacOS only ⚠️
@@ -61,11 +61,11 @@ Developed by:
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sonny-Fourmont"><img src="https://avatars.githubusercontent.com/u/114910491?v=4" width="100px;" alt="Sonny FOURMONT" style="border-radius: 50%;"/><br /><sub><b>Sonny FOURMONT</b></sub></a><br /></td>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Maskalito"><img src="https://avatars.githubusercontent.com/u/114986497?v=4" width="100px;" alt="Clément BARRIER" style="border-radius: 50%;"/><br /><sub><b>Clément BARRIER</b></sub></a><br /></td>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Krio18"><img src="https://avatars.githubusercontent.com/u/114526966?v=4" width="100px;" alt="Killian COTTRELLE" style="border-radius: 50%;"/><br /><sub><b>Killian COTTRELLE</b></sub></a><br /></td>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Matribuk"><img src="https://avatars.githubusercontent.com/u/75017908?v=4" width="100px;" alt="Antonin LEPREST" style="border-radius: 50%;"/><br /><sub><b>Antonin LEPREST</b></sub></a><br /></td>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/AxelAv19"><img src="https://avatars.githubusercontent.com/u/114404778?v=4" width="100px;" alt="Axel AVERLY" style="border-radius: 50%;"/><br /><sub><b>Axel<br>AVERLY</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sonny-Fourmont"><img src="https://avatars.githubusercontent.com/u/114910491?v=4" width="100px;" alt="Sonny FOURMONT" style="border-radius: 50%; !important"/><br /><sub><b>Sonny FOURMONT</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Maskalito"><img src="https://avatars.githubusercontent.com/u/114986497?v=4" width="100px;" alt="Clément BARRIER" style="border-radius: 50% !important;"/><br /><sub><b>Clément BARRIER</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Krio18"><img src="https://avatars.githubusercontent.com/u/114526966?v=4" width="100px;" alt="Killian COTTRELLE" style="border-radius: 50% !important;"/><br /><sub><b>Killian COTTRELLE</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Matribuk"><img src="https://avatars.githubusercontent.com/u/75017908?v=4" width="100px;" alt="Antonin LEPREST" style="border-radius: 50%; !important"/><br /><sub><b>Antonin LEPREST</b></sub></a><br /></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/AxelAv19"><img src="https://avatars.githubusercontent.com/u/114404778?v=4" width="100px;" alt="Axel AVERLY" style="border-radius: 50% !important;"/><br /><sub><b>Axel<br>AVERLY</b></sub></a><br /></td>
         </tr>
     </tbody>
 </table>
