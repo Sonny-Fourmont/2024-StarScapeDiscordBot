@@ -4,7 +4,7 @@
 ## Installation
 1- Clone the repository:
 ```bash
-git clone https://github.com/Sonny-Fourmont/Coffee-Todo.git
+git clone https://github.com/Sonny-Fourmont/StarScapeDiscordBot.git
 ```
 2- install npm if you don't have it:
 - Linux:
@@ -19,34 +19,21 @@ brew install npm
 ```bash
 npm install
 ```
+3- To run the bot for dev tests:
+```bash
+npm run dev
+```
 4- Compile the TS code:
 ```bash
-npx tsc
+npm run build
 ```
 ## Use the app
 1- Start the server:
 ```bash
-node ./js/index.js
+npm run start
 ```
-2- Get the result:
+2- Have fun on your discord server :)
 
-Use a simple browser like: Firefox, Chrome... With this URL:
-```
-localhost:3000/<any routes>
-```
-or use Postman or ThunderClient on VsCode with the same URL.
-
----
-
-Your result will appear as a JSON file
-
-Here are some patterns:
-do the same with: companies, contacts, tickets, transactions.
-```bash
-localhost:3000/
-localhost:3000/companies || localhost:3000/companies/<ID>
-localhost:3000/companies/create || localhost:3000/companies/delete || localhost:3000/companies/update
-```
 ## Technologies Used
 - ![Typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Javascript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
