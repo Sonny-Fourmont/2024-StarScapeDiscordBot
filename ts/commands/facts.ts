@@ -1,6 +1,6 @@
 import { exec } from "child_process";
 
-async function facts(interaction: any) {
+async function getFacts(interaction: any) {
     if (interaction.commandName === "fact") {
         await interaction.deferReply();
         exec(`python3 ./assets/script/UpdateFact.py get`, async (error, stdout, stderr) => {
@@ -8,7 +8,9 @@ async function facts(interaction: any) {
             await interaction.editReply(stdout);
         });
     }
+}
 
+async function newFacts(interaction: any) {
     if (interaction.commandName === "newfact") {
         if (!interaction.options.get('fact'))
             await interaction.reply("Please enter your fact ! (required)");
@@ -21,7 +23,9 @@ async function facts(interaction: any) {
             });
         }
     }
+}
 
+async function removeFacts(interaction: any) {
     if (interaction.commandName === "removefact") {
         if (!interaction.options.get('index'))
             await interaction.reply("Please the index (1 for the first etc...) of your fact ! (required)");
@@ -34,6 +38,12 @@ async function facts(interaction: any) {
             });
         }
     }
+}
+
+async function facts(interaction: any) {
+    getFacts(interaction);
+    newFacts(interaction);
+    removeFacts(interaction);
 }
 
 export default facts
