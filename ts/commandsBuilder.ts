@@ -11,7 +11,7 @@ const commandsBuilder = [
         description: "Shows you the Astronomy Picture Of The Day (By NASA)",
         options: [{
             name: "date",
-            description: "YYYY-MM-DD",
+            description: "DD/MM/YYYY",
             type: 3,
             require: false
         }]
