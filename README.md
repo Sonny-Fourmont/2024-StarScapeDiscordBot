@@ -6,7 +6,7 @@
 ## Installation
 1- Clone the repository:
 ```bash
-git clone https://github.com/Sonny-Fourmont/StarScapeDiscordBot.git
+git clone https://github.com/StarScape-Asso/StarScapeDiscordBot.git
 ```
 2- install npm if you don't have it:
 - Linux:
