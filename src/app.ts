@@ -43,9 +43,6 @@ client.on('ready', (client: Client<true>) => {
     console.log(`${client.user.username} is online.`);
 });
 
-client.on("messageCreate", async (message) => {
-})
-
 // discord bot interactions
 client.on("interactionCreate", async (interaction: Interaction) => {
 	if (!interaction.isCommand()) return;
