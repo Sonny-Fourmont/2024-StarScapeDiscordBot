@@ -5,4 +5,4 @@ idk
 package-lock.json
 node_modules
 static
-*.js
+*.dist
