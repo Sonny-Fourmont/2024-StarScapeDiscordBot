@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import { Client } from 'discord.js';
+import { Client, Interaction } from 'discord.js';
 
 // import commandsBuider + commands
 import commandsBuilder from "./commandsBuilder";
@@ -10,22 +10,44 @@ import newletter from './commands/newletter';
 import ping from './commands/ping';
 
 // Format date of the day
-const date = new Date();
-export const formattedDate = `${date.getFullYear()}-0${date.getMonth() + 1}-${date.getDate()}`;
+const date: Date = new Date();
+function getFormattedDate () {
+    let fullDate: string;
+    let year: number = date.getFullYear();
+    let month: number = date.getMonth() + 1;
+    let day: number = date.getDate();
+
+    fullDate = `${year}-`;
+    if (month < 10)
+        fullDate += `0${month}-`;
+    else
+        fullDate += `${month}-`;
+
+    if (day < 10)
+        fullDate += `0${day}`;
+    else
+        fullDate += `${day}`;
+    return (fullDate);
+};
+export const formattedDate: string = getFormattedDate();
+console.log(formattedDate);
 
 // init discord client
-const client = new Client({
+const client: Client = new Client({
     intents: ['Guilds', 'GuildMessages', 'GuildMembers', 'MessageContent']
 });
 
 // init bot first command
-client.on('ready', (c) => {
+client.on('ready', (client: Client<true>) => {
     commandsBuilder;
-    console.log(`${c.user.username} is online.`);
+    console.log(`${client.user.username} is online.`);
 });
 
+client.on("messageCreate", async (message) => {
+})
+
 // discord bot interactions
-client.on("interactionCreate", async (interaction) => {
+client.on("interactionCreate", async (interaction: Interaction) => {
 	if (!interaction.isCommand()) return;
 
     ping(interaction);
