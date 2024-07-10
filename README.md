@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/app-icons/1221172836249370738/7368c22c8e1de506f4e91bf2ec1adeda.png" width="100px;" alt="StarScapeBot" style="border-radius: 50% !important;"/>
+<img src="https://cdn.discordapp.com/attachments/1220771951786590221/1260627131931693056/Logo_StarScape_V2-Fond_blanc.png?ex=66900201&is=668eb081&hm=dddcc52fed45c4965e2866c1c6fb2c0337227b40983f4cfe8f93322de670990e&" width="300px;" alt="StarScapeBot" style="border-radius: 50% !important;"/>
 
 # StarScape Discord Bot
 # ⚠️ Hosting on Linux or MacOS only ⚠️
