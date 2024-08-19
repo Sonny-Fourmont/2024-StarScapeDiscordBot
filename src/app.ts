@@ -7,7 +7,7 @@ import apod from './commands/apod';
 import facts from './commands/facts';
 import jarjar from './commands/jarjar';
 import newletter from './commands/newletter';
-import ping from './commands/ping';
+// import ping from './commands/ping';
 
 // Format date of the day
 const date: Date = new Date();
@@ -47,7 +47,7 @@ client.on('ready', (client: Client<true>) => {
 client.on("interactionCreate", async (interaction: Interaction) => {
 	if (!interaction.isCommand()) return;
 
-    ping(interaction);
+    // ping(interaction);
     apod(interaction);
     facts(interaction);
     jarjar(interaction);

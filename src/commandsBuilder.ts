@@ -48,10 +48,10 @@ const commandsBuilder = [
         name: "newletter",
         description: "Not available yet"
     },
-    {
-        name: "ping",
-        description: "Replies with Pong!"
-    },
+    // {
+    //     name: "ping",
+    //     description: "Replies with Pong!"
+    // },
 ];
 
 const rest = new REST({ version: "9" }).setToken(token);
