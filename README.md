@@ -2,7 +2,6 @@
 
 # StarScape Discord Bot
 # ⚠️ Hosting on Linux or MacOS only ⚠️
-<!-- I developed a mini web app with it's respective front-end and back-end. Includes the Controller (API), the service and the BD (MongoDB) -->
 ## Installation
 1- Clone the repository:
 ```bash
